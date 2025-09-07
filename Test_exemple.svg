@@ -6,30 +6,22 @@
    version="1.2"
    id="svg54"
    sodipodi:docname="Test_exemple.svg"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
    inkscape:export-filename="C:\Users\celine.monge\OneDrive - AKKA\Documents\PERSO\Loisirs_Creatifs\Couture\Pretty_Iro\Top_Iro\Patron_Standard\Patron_Top_Iro_FINAL_v0.2_20220402.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
+   xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <metadata
-     id="metadata58">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Patron</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
+     id="metadata58"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Patron</dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -42,9 +34,9 @@
      inkscape:window-height="1009"
      id="namedview56"
      showgrid="false"
-     inkscape:zoom="0.34077865"
-     inkscape:cx="1289.6935"
-     inkscape:cy="850.99228"
+     inkscape:zoom="0.48193379"
+     inkscape:cx="1367.4078"
+     inkscape:cy="822.72712"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -58,221 +50,135 @@
      inkscape:document-units="mm"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1" />
-  <title
-     id="title2">Patron</title>
-  <defs
-     id="defs4">
-    <rect
+     inkscape:deskcolor="#d1d1d1" /><title
+     id="title2">Patron</title><defs
+     id="defs4"><rect
        x="3867.8884"
        y="3808.5034"
        width="461.13547"
        height="1358.7656"
-       id="rect2740" />
-    <clipPath
+       id="rect2740" /><clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipEmfPath1">
-      <path
+       id="clipEmfPath1"><path
          d="M 1.4391278,1.4391278 H 28.302847 V 317.24773 H 1.4391278 Z"
-         id="path2468" />
-    </clipPath>
-    <pattern
+         id="path2468" /></clipPath><pattern
        id="EMFhbasepattern"
        patternUnits="userSpaceOnUse"
        width="6"
        height="6"
        x="0"
-       y="0" />
-    <clipPath
+       y="0" /><clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipEmfPath1-6">
-      <path
+       id="clipEmfPath1-6"><path
          d="M 1.4391278,1.4391278 H 44.772865 V 475.23198 H 1.4391278 Z"
-         id="path2495" />
-    </clipPath>
-    <pattern
+         id="path2495" /></clipPath><pattern
        id="EMFhbasepattern-3"
        patternUnits="userSpaceOnUse"
        width="6"
        height="6"
        x="0"
-       y="0" />
-    <clipPath
+       y="0" /><clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipEmfPath1-62">
-      <path
+       id="clipEmfPath1-62"><path
          d="M 1.4391278,1.4391278 H 28.302847 V 317.24773 H 1.4391278 Z"
-         id="path2468-6" />
-    </clipPath>
-    <clipPath
+         id="path2468-6" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipEmfPath1-6-7">
-      <path
+       id="clipEmfPath1-6-7"><path
          d="M 1.4391278,1.4391278 H 44.772865 V 475.23198 H 1.4391278 Z"
-         id="path2495-1" />
-    </clipPath>
-    <clipPath
+         id="path2495-1" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipEmfPath1-62-9">
-      <path
+       id="clipEmfPath1-62-9"><path
          d="M 1.4391278,1.4391278 H 28.302847 V 317.24773 H 1.4391278 Z"
-         id="path2468-6-8" />
-    </clipPath>
-    <clipPath
+         id="path2468-6-8" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipEmfPath1-6-7-3">
-      <path
+       id="clipEmfPath1-6-7-3"><path
          d="M 1.4391278,1.4391278 H 44.772865 V 475.23198 H 1.4391278 Z"
-         id="path2495-1-5" />
-    </clipPath>
-    <clipPath
+         id="path2495-1-5" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipEmfPath1-6-7-3-6">
-      <path
+       id="clipEmfPath1-6-7-3-6"><path
          d="M 1.4391278,1.4391278 H 44.772865 V 475.23198 H 1.4391278 Z"
-         id="path2495-1-5-0" />
-    </clipPath>
-    <clipPath
+         id="path2495-1-5-0" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipEmfPath1-62-9-9">
-      <path
+       id="clipEmfPath1-62-9-9"><path
          d="M 1.4391278,1.4391278 H 28.302847 V 317.24773 H 1.4391278 Z"
-         id="path2468-6-8-6" />
-    </clipPath>
-    <clipPath
+         id="path2468-6-8-6" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipEmfPath1-62-9-9-1">
-      <path
+       id="clipEmfPath1-62-9-9-1"><path
          d="M 1.4391278,1.4391278 H 28.302847 V 317.24773 H 1.4391278 Z"
-         id="path2468-6-8-6-4" />
-    </clipPath>
-    <clipPath
+         id="path2468-6-8-6-4" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipEmfPath1-6-7-3-6-4">
-      <path
+       id="clipEmfPath1-6-7-3-6-4"><path
          d="M 1.4391278,1.4391278 H 44.772865 V 475.23198 H 1.4391278 Z"
-         id="path2495-1-5-0-7" />
-    </clipPath>
-    <clipPath
+         id="path2495-1-5-0-7" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipEmfPath1-62-9-9-1-5">
-      <path
+       id="clipEmfPath1-62-9-9-1-5"><path
          d="M 1.4391278,1.4391278 H 28.302847 V 317.24773 H 1.4391278 Z"
-         id="path2468-6-8-6-4-5" />
-    </clipPath>
-    <clipPath
+         id="path2468-6-8-6-4-5" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipEmfPath1-6-7-3-6-4-5">
-      <path
+       id="clipEmfPath1-6-7-3-6-4-5"><path
          d="M 1.4391278,1.4391278 H 44.772865 V 475.23198 H 1.4391278 Z"
-         id="path2495-1-5-0-7-6" />
-    </clipPath>
-    <clipPath
+         id="path2495-1-5-0-7-6" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipEmfPath1-6-7-3-6-4-5-2">
-      <path
+       id="clipEmfPath1-6-7-3-6-4-5-2"><path
          d="M 1.4391278,1.4391278 H 44.772865 V 475.23198 H 1.4391278 Z"
-         id="path2495-1-5-0-7-6-5" />
-    </clipPath>
-    <clipPath
+         id="path2495-1-5-0-7-6-5" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipEmfPath1-63">
-      <path
+       id="clipEmfPath1-63"><path
          d="M 1.4391278,1.4391278 H 28.302847 V 317.24773 H 1.4391278 Z"
-         id="path2468-0" />
-    </clipPath>
-    <clipPath
+         id="path2468-0" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipEmfPath1-6-9">
-      <path
+       id="clipEmfPath1-6-9"><path
          d="M 1.4391278,1.4391278 H 44.772865 V 475.23198 H 1.4391278 Z"
-         id="path2495-2" />
-    </clipPath>
-    <clipPath
+         id="path2495-2" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipEmfPath1-62-3">
-      <path
+       id="clipEmfPath1-62-3"><path
          d="M 1.4391278,1.4391278 H 28.302847 V 317.24773 H 1.4391278 Z"
-         id="path2468-6-3" />
-    </clipPath>
-    <clipPath
+         id="path2468-6-3" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipEmfPath1-6-7-4">
-      <path
+       id="clipEmfPath1-6-7-4"><path
          d="M 1.4391278,1.4391278 H 44.772865 V 475.23198 H 1.4391278 Z"
-         id="path2495-1-1" />
-    </clipPath>
-    <clipPath
+         id="path2495-1-1" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipEmfPath1-62-9-8">
-      <path
+       id="clipEmfPath1-62-9-8"><path
          d="M 1.4391278,1.4391278 H 28.302847 V 317.24773 H 1.4391278 Z"
-         id="path2468-6-8-3" />
-    </clipPath>
-    <clipPath
+         id="path2468-6-8-3" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipEmfPath1-62-9-9-5">
-      <path
+       id="clipEmfPath1-62-9-9-5"><path
          d="M 1.4391278,1.4391278 H 28.302847 V 317.24773 H 1.4391278 Z"
-         id="path2468-6-8-6-40" />
-    </clipPath>
-    <clipPath
+         id="path2468-6-8-6-40" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipEmfPath1-6-7-3-6-44">
-      <path
+       id="clipEmfPath1-6-7-3-6-44"><path
          d="M 1.4391278,1.4391278 H 44.772865 V 475.23198 H 1.4391278 Z"
-         id="path2495-1-5-0-77" />
-    </clipPath>
-    <clipPath
+         id="path2495-1-5-0-77" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipEmfPath1-62-9-9-1-6">
-      <path
+       id="clipEmfPath1-62-9-9-1-6"><path
          d="M 1.4391278,1.4391278 H 28.302847 V 317.24773 H 1.4391278 Z"
-         id="path2468-6-8-6-4-1" />
-    </clipPath>
-    <clipPath
+         id="path2468-6-8-6-4-1" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipEmfPath1-6-7-3-6-4-6">
-      <path
+       id="clipEmfPath1-6-7-3-6-4-6"><path
          d="M 1.4391278,1.4391278 H 44.772865 V 475.23198 H 1.4391278 Z"
-         id="path2495-1-5-0-7-2" />
-    </clipPath>
-    <clipPath
+         id="path2495-1-5-0-7-2" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipEmfPath1-62-9-9-1-5-2">
-      <path
+       id="clipEmfPath1-62-9-9-1-5-2"><path
          d="M 1.4391278,1.4391278 H 28.302847 V 317.24773 H 1.4391278 Z"
-         id="path2468-6-8-6-4-5-3" />
-    </clipPath>
-    <clipPath
+         id="path2468-6-8-6-4-5-3" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipEmfPath1-6-7-3-6-4-5-1">
-      <path
+       id="clipEmfPath1-6-7-3-6-4-5-1"><path
          d="M 1.4391278,1.4391278 H 44.772865 V 475.23198 H 1.4391278 Z"
-         id="path2495-1-5-0-7-6-2" />
-    </clipPath>
-    <clipPath
+         id="path2495-1-5-0-7-6-2" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipEmfPath1-6-7-3-6-4-5-2-5">
-      <path
+       id="clipEmfPath1-6-7-3-6-4-5-2-5"><path
          d="M 1.4391278,1.4391278 H 44.772865 V 475.23198 H 1.4391278 Z"
-         id="path2495-1-5-0-7-6-5-7" />
-    </clipPath>
-    <clipPath
+         id="path2495-1-5-0-7-6-5-7" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipEmfPath1-62-9-9-1-9">
-      <path
+       id="clipEmfPath1-62-9-9-1-9"><path
          d="M 1.4391278,1.4391278 H 28.302847 V 317.24773 H 1.4391278 Z"
-         id="path2468-6-8-6-4-18" />
-    </clipPath>
-  </defs>
-  <g
+         id="path2468-6-8-6-4-18" /></clipPath></defs><g
      id="Pages"
      inkscape:label="Pages"
      inkscape:groupmode="layer"
      style="display:inline"
-     transform="translate(0.37935497,0.38021195)">
-    <rect
+     transform="translate(0.37935497,0.38021195)"><rect
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.51039;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect871"
        width="678.80029"
@@ -281,8 +187,7 @@
        y="0.37498543"
        inkscape:label="Page_A1"
        inkscape:export-xdpi="288"
-       inkscape:export-ydpi="288" />
-    <rect
+       inkscape:export-ydpi="288" /><rect
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.51039;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect871-8"
        width="678.79907"
@@ -291,8 +196,7 @@
        y="0.37498474"
        inkscape:label="Page_A2"
        inkscape:export-xdpi="288"
-       inkscape:export-ydpi="288" />
-    <rect
+       inkscape:export-ydpi="288" /><rect
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.51039;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect871-6"
        width="678.80029"
@@ -301,8 +205,7 @@
        y="0.3749854"
        inkscape:label="Page_A3"
        inkscape:export-xdpi="288"
-       inkscape:export-ydpi="288" />
-    <rect
+       inkscape:export-ydpi="288" /><rect
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.51039;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect871-3"
        width="678.80029"
@@ -311,8 +214,7 @@
        y="0.37498537"
        inkscape:label="Page_A4"
        inkscape:export-xdpi="288"
-       inkscape:export-ydpi="288" />
-    <rect
+       inkscape:export-ydpi="288" /><rect
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.51039;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect871-81"
        width="678.80029"
@@ -321,8 +223,7 @@
        y="945.25134"
        inkscape:label="Page_B1"
        inkscape:export-xdpi="288"
-       inkscape:export-ydpi="288" />
-    <rect
+       inkscape:export-ydpi="288" /><rect
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.51039;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect871-8-5"
        width="678.79901"
@@ -331,8 +232,7 @@
        y="945.2514"
        inkscape:label="Page_B2"
        inkscape:export-xdpi="288"
-       inkscape:export-ydpi="288" />
-    <rect
+       inkscape:export-ydpi="288" /><rect
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.51039;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect871-6-2"
        width="678.80029"
@@ -341,8 +241,7 @@
        y="945.25098"
        inkscape:label="Page_B3"
        inkscape:export-xdpi="288"
-       inkscape:export-ydpi="288" />
-    <rect
+       inkscape:export-ydpi="288" /><rect
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.51039;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect871-3-3"
        width="678.80029"
@@ -351,13 +250,17 @@
        y="945.25159"
        inkscape:label="Page_B4"
        inkscape:export-xdpi="288"
-       inkscape:export-ydpi="288" />
-  </g>
-  <g
+       inkscape:export-ydpi="288" /><image
+       width="37.795036"
+       height="37.795036"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAMAAADDpiTIAAAAA3NCSVQICAjb4U/gAAAACXBIWXMA&#10;AI66AACOugF8nMegAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAvRQTFRF&#10;////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAxRfo/QAAAPt0Uk5TAAECAwQFBgcICQoLDA0ODxAREhMUFRYXGBkaGxwd&#10;Hh8gISIjJCUmJygpKissLS4vMDEyMzQ1Njc4OTo7PD0+P0BBQkNERUZHSElKS0xNTk9QUVJTVFVW&#10;V1hZWltcXV5fYGFiY2RlZmdoaWprbG1ub3BxcnN0dXZ3eHl6e3x9fn+AgYKDhIWGh4mKi4yNjo+Q&#10;kZKTlJWWl5mam5ydnp+hoqOkpaanqKmrrK2ur7CxsrO0tba3uLm6u7y9vr/AwcLDxMXGx8jJysvM&#10;zc7P0NHS09TV1tfY2drb3N3e3+Dh4uPk5ebn6Onq6+zt7u/w8fLz9PX29/j5+vv8/f6PE2oPAAAg&#10;KklEQVR42u2d+0NWVbrH98v9Ig7mLaSiJg6WoyQ6ik4pXo6ROR6SQUXL+6DkfTBJ5FgendNMOTLj&#10;DAVeoYwyZ5IZw6CiNKE8XjANDcERc0DlIo4gl5d3/XK8Zaiw3r3fdz17r7X28/0D3udZ6/t5997r&#10;9ixFMY28AkNHxsQnr9+2I3tPfsHBYyVnKmvrrdb62sozJccOFuTvyd6xbX1yfMzI0EAvBSWLXING&#10;zFqTmXu4vJ5oUH354dzMNbNGBLliD4qqHuGxSem5pc3EKTWX5qYnxYb3wP4USL7hcRvyqwlTVedv&#10;iAv3xb7lXC7B0at3ltgIkGwlO1dHB7tgP3OpgJiUgnqig+oLUmICsL+5+uOHxmeWEV1Vlhkfio8C&#10;Ll74o1blXCKG6FLOqlH4WWCkLAOS91mJobLuSx5gQSeMkP+krRWEC1VsneSPfuj71w9buddKOJJ1&#10;78owfBDoJM+oLRWEQ1VsifJEd6DlPi6jjnCruoxx7ugRnNwiN9cQzlWzOdINnYKQ6+i0KiKEqtJG&#10;4xoSa4WnnicC6XxqOHrGcMS3sIgIp6KFODZko2EZDURINWQMQ/ecVbeEYiKwihO6oYdOzPeMzmoi&#10;gqspazTOEDkmnwUlRAqVLPBBNzWr59oqIo2qf9sTHdWkxzY2EqnUuKkPuqpaEdk2Ip1s/xiJzqqa&#10;8Zt8gEiqQ1Nxltie3OeeJhKrfL4Hekz7988sI5Lrn3PwKdCRXKaeJCZQyTTcTdrurE/McWISfTsJ&#10;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&#10;"
+       id="image1"
+       x="18.518164"
+       y="18.517307" /></g><g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Pages Info">
-    <rect
+     inkscape:label="Pages Info"><rect
        style="display:none;fill:#000000;fill-opacity:0.19891;fill-rule:evenodd;stroke:#008000;stroke-width:0.677135;stroke-linejoin:bevel;stroke-dasharray:2.70854, 1.35427;stop-color:#000000"
        id="rect1275-7-0-1"
        width="37.118233"
@@ -365,8 +268,7 @@
        x="3045.679"
        y="-412.40613"
        transform="rotate(45,-32.974174,-77.060651)"
-       inkscape:label="repere_h_2_4" />
-    <rect
+       inkscape:label="repere_h_2_4" /><rect
        style="display:none;fill:#000000;fill-opacity:0.19891;fill-rule:evenodd;stroke:#008000;stroke-width:0.677135;stroke-linejoin:bevel;stroke-dasharray:2.70854, 1.35427;stop-color:#000000"
        id="rect1275-3-4-0"
        width="37.118233"
@@ -374,8 +276,7 @@
        x="2564.6265"
        y="68.645714"
        transform="rotate(45,-32.974174,-77.060651)"
-       inkscape:label="repere_h_2_3" />
-    <rect
+       inkscape:label="repere_h_2_3" /><rect
        style="display:none;fill:#000000;fill-opacity:0.19891;fill-rule:evenodd;stroke:#008000;stroke-width:0.677135;stroke-linejoin:bevel;stroke-dasharray:2.70854, 1.35427;stop-color:#000000"
        id="rect1275-4-70-8"
        width="37.118233"
@@ -383,8 +284,7 @@
        x="2030.7424"
        y="603.58215"
        transform="rotate(45)"
-       inkscape:label="repere_h_2_2" />
-    <rect
+       inkscape:label="repere_h_2_2" /><rect
        style="display:none;fill:#000000;fill-opacity:0.19891;fill-rule:evenodd;stroke:#008000;stroke-width:0.677135;stroke-linejoin:bevel;stroke-dasharray:2.70854, 1.35427;stop-color:#000000"
        id="rect1275-5-1"
        width="37.118233"
@@ -392,8 +292,7 @@
        x="1557.6895"
        y="1076.6371"
        transform="rotate(45)"
-       inkscape:label="repere_h_2_1" />
-    <rect
+       inkscape:label="repere_h_2_1" /><rect
        style="display:inline;fill:#000000;fill-opacity:0.19891;fill-rule:evenodd;stroke:#008000;stroke-width:0.677135;stroke-linejoin:bevel;stroke-dasharray:2.70854, 1.35427;stop-color:#000000"
        id="rect1275-3-7"
        width="37.118233"
@@ -401,8 +300,7 @@
        x="2412.9404"
        y="-472.91971"
        transform="rotate(45,-0.26927894,0.64802792)"
-       inkscape:label="repere_v_2_3" />
-    <rect
+       inkscape:label="repere_v_2_3" /><rect
        style="display:inline;fill:#000000;fill-opacity:0.19891;fill-rule:evenodd;stroke:#008000;stroke-width:0.677135;stroke-linejoin:bevel;stroke-dasharray:2.70854, 1.35427;stop-color:#000000"
        id="rect1275-4-9"
        width="37.118233"
@@ -410,8 +308,7 @@
        x="1931.5856"
        y="8.4350653"
        transform="rotate(45,-0.26927894,0.64802792)"
-       inkscape:label="repere_v_2_2" />
-    <rect
+       inkscape:label="repere_v_2_2" /><rect
        style="display:inline;fill:#000000;fill-opacity:0.19891;fill-rule:evenodd;stroke:#008000;stroke-width:0.677135;stroke-linejoin:bevel;stroke-dasharray:2.70854, 1.35427;stop-color:#000000"
        id="rect1275-79"
        width="37.118233"
@@ -419,8 +316,7 @@
        x="1449.9849"
        y="488.94736"
        transform="rotate(45,-0.26927894,0.64802792)"
-       inkscape:label="repere_v_2_1" />
-    <rect
+       inkscape:label="repere_v_2_1" /><rect
        style="display:inline;fill:#000000;fill-opacity:0.19891;fill-rule:evenodd;stroke:#008000;stroke-width:0.677135;stroke-linejoin:bevel;stroke-dasharray:2.70854, 1.35427;stop-color:#000000"
        id="rect1275-7-0"
        width="37.118233"
@@ -428,8 +324,7 @@
        x="2378.6187"
        y="-1079.4663"
        transform="rotate(45,-32.974174,-77.060651)"
-       inkscape:label="repere_h_1_4" />
-    <rect
+       inkscape:label="repere_h_1_4" /><rect
        style="display:inline;fill:#000000;fill-opacity:0.19891;fill-rule:evenodd;stroke:#008000;stroke-width:0.677135;stroke-linejoin:bevel;stroke-dasharray:2.70854, 1.35427;stop-color:#000000"
        id="rect1275-3-4"
        width="37.118233"
@@ -437,8 +332,7 @@
        x="1897.566"
        y="-598.41443"
        transform="rotate(45,-32.974174,-77.060651)"
-       inkscape:label="repere_h_1_3" />
-    <rect
+       inkscape:label="repere_h_1_3" /><rect
        style="display:inline;fill:#000000;fill-opacity:0.19891;fill-rule:evenodd;stroke:#008000;stroke-width:0.677135;stroke-linejoin:bevel;stroke-dasharray:2.70854, 1.35427;stop-color:#000000"
        id="rect1275-4-70"
        width="37.118233"
@@ -446,8 +340,7 @@
        x="1409.0237"
        y="-110.41167"
        transform="rotate(45,-32.974174,-77.060651)"
-       inkscape:label="repere_h_1_2" />
-    <rect
+       inkscape:label="repere_h_1_2" /><rect
        style="display:inline;fill:#000000;fill-opacity:0.19891;fill-rule:evenodd;stroke:#008000;stroke-width:0.677135;stroke-linejoin:bevel;stroke-dasharray:2.70854, 1.35427;stop-color:#000000"
        id="rect1275-5"
        width="37.118233"
@@ -455,8 +348,7 @@
        x="936.23468"
        y="364.4523"
        transform="rotate(45,-32.974174,-77.060651)"
-       inkscape:label="repere_h_1_1" />
-    <rect
+       inkscape:label="repere_h_1_1" /><rect
        style="display:inline;fill:#000000;fill-opacity:0.19891;fill-rule:evenodd;stroke:#008000;stroke-width:0.691389;stroke-linejoin:bevel;stroke-dasharray:2.76556, 1.38278;stop-color:#000000"
        id="rect1275-3"
        width="37.899612"
@@ -464,8 +356,7 @@
        x="1781.5507"
        y="-1165.0774"
        transform="matrix(0.69252296,0.72139583,-0.69252296,0.72139583,0.37935497,0.38021195)"
-       inkscape:label="repere_v_1_3" />
-    <rect
+       inkscape:label="repere_v_1_3" /><rect
        style="display:inline;fill:#000000;fill-opacity:0.19891;fill-rule:evenodd;stroke:#008000;stroke-width:0.691389;stroke-linejoin:bevel;stroke-dasharray:2.76556, 1.38278;stop-color:#000000"
        id="rect1275-4"
        width="37.899612"
@@ -473,8 +364,7 @@
        x="1290.0635"
        y="-673.59027"
        transform="matrix(0.69252296,0.72139583,-0.69252296,0.72139583,0.37935497,0.38021195)"
-       inkscape:label="repere_v_1_2" />
-    <rect
+       inkscape:label="repere_v_1_2" /><rect
        style="display:inline;fill:#000000;fill-opacity:0.19891;fill-rule:evenodd;stroke:#008000;stroke-width:0.691389;stroke-linejoin:bevel;stroke-dasharray:2.76556, 1.38278;stop-color:#000000"
        id="rect1275"
        width="37.899612"
@@ -482,8 +372,7 @@
        x="799.42932"
        y="-182.95604"
        transform="matrix(0.69252296,0.72139583,-0.69252296,0.72139583,0.37935497,0.38021195)"
-       inkscape:label="repere_v_1_1" />
-    <text
+       inkscape:label="repere_v_1_1" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:278.924px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:0.0661376;stroke:none;stroke-width:6.97302;stroke-miterlimit:4;stroke-dasharray:none"
        x="2525.8704"
@@ -495,8 +384,7 @@
          x="2525.8704"
          y="1343.1342"
          style="fill:#000000;fill-opacity:0.0661376;stroke-width:6.97302;stroke-miterlimit:4;stroke-dasharray:none"
-         sodipodi:role="line">B4</tspan></text>
-    <text
+         sodipodi:role="line">B4</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:278.924px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:0.0661376;stroke:none;stroke-width:6.97302;stroke-miterlimit:4;stroke-dasharray:none"
        x="1753.2858"
@@ -508,8 +396,7 @@
          x="1753.2858"
          y="1343.1354"
          style="fill:#000000;fill-opacity:0.0661376;stroke-width:6.97302;stroke-miterlimit:4;stroke-dasharray:none"
-         sodipodi:role="line">B3</tspan></text>
-    <text
+         sodipodi:role="line">B3</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:278.924px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:0.0661376;stroke:none;stroke-width:6.97302;stroke-miterlimit:4;stroke-dasharray:none"
        x="975.52679"
@@ -521,8 +408,7 @@
          x="975.52679"
          y="1345.2451"
          style="fill:#000000;fill-opacity:0.0661376;stroke-width:6.97302;stroke-miterlimit:4;stroke-dasharray:none"
-         sodipodi:role="line">B2</tspan></text>
-    <text
+         sodipodi:role="line">B2</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:278.924px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:0.0661376;stroke:none;stroke-width:6.97302;stroke-miterlimit:4;stroke-dasharray:none"
        x="204.79224"
@@ -534,8 +420,7 @@
          x="204.79224"
          y="1342.7729"
          style="fill:#000000;fill-opacity:0.0661376;stroke-width:6.97302;stroke-miterlimit:4;stroke-dasharray:none"
-         sodipodi:role="line">B1</tspan></text>
-    <text
+         sodipodi:role="line">B1</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:284.677px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:0.0661376;stroke:none;stroke-width:7.11684;stroke-miterlimit:4;stroke-dasharray:none"
        x="2590.3606"
@@ -547,8 +432,7 @@
          x="2590.3606"
          y="508.70056"
          style="fill:#000000;fill-opacity:0.0661376;stroke-width:7.11684;stroke-miterlimit:4;stroke-dasharray:none"
-         sodipodi:role="line">A4</tspan></text>
-    <text
+         sodipodi:role="line">A4</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:284.677px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:0.0661376;stroke:none;stroke-width:7.11684;stroke-miterlimit:4;stroke-dasharray:none"
        x="1801.8365"
@@ -560,8 +444,7 @@
          x="1801.8365"
          y="508.70059"
          style="fill:#000000;fill-opacity:0.0661376;stroke-width:7.11684;stroke-miterlimit:4;stroke-dasharray:none"
-         sodipodi:role="line">A3</tspan></text>
-    <text
+         sodipodi:role="line">A3</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:284.677px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:0.0661376;stroke:none;stroke-width:7.11684;stroke-miterlimit:4;stroke-dasharray:none"
        x="1008.0315"
@@ -573,8 +456,7 @@
          x="1008.0315"
          y="510.8551"
          style="fill:#000000;fill-opacity:0.0661376;stroke-width:7.11684;stroke-miterlimit:4;stroke-dasharray:none"
-         sodipodi:role="line">A2</tspan></text>
-    <text
+         sodipodi:role="line">A2</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:278.924px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:0.0661376;stroke:none;stroke-width:6.97302;stroke-miterlimit:4;stroke-dasharray:none"
        x="216.90688"
@@ -586,19 +468,15 @@
          x="216.90688"
          y="515.31055"
          style="fill:#000000;fill-opacity:0.0661376;stroke-width:6.97302;stroke-miterlimit:4;stroke-dasharray:none"
-         sodipodi:role="line">A1</tspan></text>
-  </g>
-  <g
+         sodipodi:role="line">A1</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer18"
      inkscape:label="Informations"
      style="display:inline"
-     transform="translate(0.37935497,0.38021195)">
-    <g
+     transform="translate(0.37935497,0.38021195)"><g
        id="g1858"
        transform="translate(-1380.1618,-712.58799)"
-       inkscape:label="Grp_Etiquette_Piece">
-      <text
+       inkscape:label="Grp_Etiquette_Piece"><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.1274px;line-height:1.25;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.803182"
          x="1650.6918"
@@ -608,8 +486,7 @@
            id="tspan1117-0-2-8-5"
            x="1650.6918"
            y="1129.2072"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT Bold';text-align:center;text-anchor:middle;stroke-width:0.803182">Buste de base sans pinces</tspan></text>
-      <text
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT Bold';text-align:center;text-anchor:middle;stroke-width:0.803182">Buste de base sans pinces</tspan></text><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.8365px;line-height:1.25;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.11758"
          x="1650.5741"
@@ -619,8 +496,7 @@
            id="tspan1117-0-0-5-4-1"
            x="1650.5741"
            y="1098.1323"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.8365px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT Bold';text-align:center;text-anchor:middle;stroke-width:1.11758">VOTRE MARQUE</tspan></text>
-      <text
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.8365px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT Bold';text-align:center;text-anchor:middle;stroke-width:1.11758">VOTRE MARQUE</tspan></text><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.0592px;line-height:1.25;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55148"
          x="1650.2128"
@@ -630,8 +506,7 @@
            id="tspan1117-0-3-3-7-6"
            x="1650.2128"
            y="1154.2396"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';text-align:center;text-anchor:middle;stroke-width:0.55148">Pièce 1 - Devant</tspan></text>
-      <text
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';text-align:center;text-anchor:middle;stroke-width:0.55148">Pièce 1 - Devant</tspan></text><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.7019px;line-height:1.25;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.803182"
          x="1650.6368"
@@ -641,30 +516,24 @@
            id="tspan1117-0-5-0-4-2"
            x="1650.6368"
            y="1186.4038"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.7019px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT Italic';text-align:center;text-anchor:middle;stroke-width:0.803182">Couper 1 fois au pli</tspan></text>
-      <path
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.7019px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT Italic';text-align:center;text-anchor:middle;stroke-width:0.803182">Couper 1 fois au pli</tspan></text><path
          style="fill:#000000;stroke:#000000;stroke-width:0.803182px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 1545.7795,1104.1175 h 210.3422"
-         id="path2450-0-8-1" />
-      <rect
+         id="path2450-0-8-1" /><rect
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.66263;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
          id="rect2452-5-7-2"
          width="384.3587"
          height="149.1794"
          x="1458.7712"
-         y="1055.5012" />
-    </g>
-    <g
+         y="1055.5012" /></g><g
        id="g1880"
        inkscape:label="Grp_Droit_Fil"
-       transform="translate(-2352.1506,53.511435)">
-      <path
+       transform="translate(-2352.1506,53.511435)"><path
          style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.00999394px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          clip-path="url(#clipEmfPath1-62-9-9-1-5)"
          d="M 15.13083,22.78619 V 295.65082 H 14.461236 V 22.78619 Z m -0.339794,0 -6.6559663,5.336766 6.6559663,-13.33192 6.66596,13.33192 z m 0,272.86463 6.66596,-5.32677 -6.66596,13.32192 -6.6559663,-13.32192 z"
          id="path2474-3-4-6-5-6"
-         transform="matrix(1.4902831,0.00531112,-0.00307915,0.86399989,2943.6823,76.579201)" />
-      <text
+         transform="matrix(1.4902831,0.00531112,-0.00307915,0.86399989,2943.6823,76.579201)" /><text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:31.4434px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.4739"
          x="-205.72627"
@@ -675,13 +544,10 @@
            id="tspan2486-0-1-5-5-2"
            x="-205.72627"
            y="2963.2454"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.4434px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';text-align:center;text-anchor:middle;stroke-width:1.4739">Droit fil</tspan></text>
-    </g>
-    <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.4434px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';text-align:center;text-anchor:middle;stroke-width:1.4739">Droit fil</tspan></text></g><g
        id="g1875"
        inkscape:label="Grp_Au_Pli"
-       transform="translate(-2544.1575,-680.8608)">
-      <text
+       transform="translate(-2544.1575,-680.8608)"><text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:31.6275px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.48254"
          x="-950.67621"
@@ -692,18 +558,14 @@
            id="tspan2486-4-4-4-6-5-5-0"
            x="-950.67621"
            y="3090.99"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.6275px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';text-align:center;text-anchor:middle;stroke-width:1.48254">Au pli</tspan></text>
-      <path
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.6275px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';text-align:center;text-anchor:middle;stroke-width:1.48254">Au pli</tspan></text><path
          style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.19676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          clip-path="url(#clipEmfPath1-6-7-3-6-4-5-2)"
          d="m 22.78619,14.47123 h 0.799516 2.718352 2.598425 2.438522 2.278619 2.098729 1.898849 1.718958 1.479103 0.639613 0.599636 0.539673 0.459722 v 0 h 0.399757 0.319807 0.259842 0.199879 0.09994 0.37977 v 447.58873 h -0.37977 -0.09994 -0.199879 -0.259842 -0.319807 -0.399757 -0.47971 -0.519685 -0.599636 -0.639613 -1.479103 -1.718958 -1.898849 -2.098729 -2.278619 -2.438522 -2.598425 -2.718352 -0.799516 v -0.6596 h 0.799516 2.718352 2.598425 2.438522 2.278619 2.098729 1.898849 1.718958 1.479103 0.639613 0.599636 0.519685 0.47971 0.399757 0.319807 0.259842 0.199879 0.09994 0.03998 l -0.319806,0.31981 V 14.811024 l 0.319806,0.339794 h -0.03998 -0.09994 -0.199879 -0.259842 -0.319807 -0.399757 l -0.47971,-0.01999 v 0 H 42.054512 41.454876 40.815263 39.33616 37.617202 35.718353 33.619624 31.341005 28.902483 26.304058 23.585706 22.78619 Z m 0,0.319806 5.336766,6.675954 -13.33192,-6.675954 13.33192,-6.6559663 z m 0,446.929134 5.336766,6.67595 -13.33192,-6.67595 13.33192,-6.65597 z"
          id="path2501-2-3-9-1-6-3"
-         transform="matrix(0.54496256,0.00183471,-0.00154295,0.48363324,3041.6548,846.14163)" />
-    </g>
-    <g
+         transform="matrix(0.54496256,0.00183471,-0.00154295,0.48363324,3041.6548,846.14163)" /></g><g
        id="g1870"
-       inkscape:label="Grp_Carre_Test">
-      <text
+       inkscape:label="Grp_Carre_Test"><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.3341px;line-height:1.25;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75835"
          x="207.04402"
@@ -716,8 +578,7 @@
            id="tspan1117-6-4"
            x="207.04402"
            y="210.19856"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';text-align:center;text-anchor:middle;stroke-width:0.75835">5 x 5 cm</tspan></text>
-      <text
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';text-align:center;text-anchor:middle;stroke-width:0.75835">5 x 5 cm</tspan></text><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.0001px;line-height:1.25;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
          x="206.38377"
@@ -730,8 +591,7 @@
            id="tspan1117-9"
            x="206.38377"
            y="181.53346"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';text-align:center;text-anchor:middle;stroke-width:1">Carré Test</tspan></text>
-      <rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';text-align:center;text-anchor:middle;stroke-width:1">Carré Test</tspan></text><rect
          style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.51145;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
          id="rect1053-7-5"
          width="188.97684"
@@ -740,21 +600,17 @@
          y="90.833023"
          inkscape:export-filename="C:\Users\celine.monge\OneDrive - AKKA\Documents\PERSO\Loisirs_Creatifs\Couture\Valentina-Seamly2D\Fichiers\layouts\Top_Iro_PNG\Page_00.png"
          inkscape:export-xdpi="288"
-         inkscape:export-ydpi="288" />
-    </g>
-    <g
+         inkscape:export-ydpi="288" /></g><g
        id="g1863"
        inkscape:label="Grp_Legende"
-       transform="translate(-2781.8617,352.33001)">
-      <rect
+       transform="translate(-2781.8617,352.33001)"><rect
          style="display:inline;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.17084;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
          id="rect3110"
          width="262.39673"
          height="330.42737"
          x="3149.2112"
          y="165.51193"
-         inkscape:label="Rectangle_Légende" />
-      <text
+         inkscape:label="Rectangle_Légende" /><text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:28.6551px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.716377"
          x="3279.717"
@@ -764,21 +620,16 @@
            id="tspan3219"
            x="3279.717"
            y="191.92355"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';text-align:center;text-anchor:middle;stroke-width:0.716377">Légende des tailles</tspan></text>
-    </g>
-  </g>
-  <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';text-align:center;text-anchor:middle;stroke-width:0.716377">Légende des tailles</tspan></text></g></g><g
      id="g753"
      inkscape:label="T62_sans_marges"
      transform="translate(-149.277,7.08656)"
      style="display:none"
-     inkscape:groupmode="layer">
-    <path
+     inkscape:groupmode="layer"><path
        style="display:inline;fill:none;stroke:#008000;stroke-width:2.008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:8.032, 4.016, 2.008, 4.016;stroke-dashoffset:0.6024;stroke-opacity:1"
        d="m 550.37365,824.31021 h 168.9079"
        id="path1565-9-9-9-1-5-3"
-       inkscape:label="Légende_Trait_T62" />
-    <text
+       inkscape:label="Légende_Trait_T62" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="728.06793"
@@ -789,20 +640,16 @@
          id="tspan1567-4-5-9-5-8-0"
          x="728.06793"
          y="830.31213"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T62</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T62</tspan></text></g><g
      id="g735"
      inkscape:label="T62_avec_marges"
      inkscape:groupmode="layer"
      style="display:inline"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#008000;stroke-width:2.008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:8.032, 4.016, 2.008, 4.016;stroke-dashoffset:0.6024;stroke-opacity:1"
        d="m 1260.3465,658.79511 h 168.9079"
        id="path1565-9-9-9-1-5-3-6"
-       inkscape:label="Légende_Trait_T62" />
-    <text
+       inkscape:label="Légende_Trait_T62" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0406"
@@ -813,20 +660,16 @@
          id="tspan1567-4-5-9-5-8-0-1"
          x="1438.0406"
          y="664.79712"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T62</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T62</tspan></text></g><g
      id="g755"
      inkscape:label="T60_sans_marges"
      inkscape:groupmode="layer"
      style="display:none"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#ff0000;stroke-width:2.008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:12.048, 4.016;stroke-dashoffset:0.6024;stroke-opacity:1"
        d="m 1260.3466,641.10301 h 168.9079"
        id="path1565-9-9-9-1-5-6"
-       inkscape:label="Légende_Trait_T60" />
-    <text
+       inkscape:label="Légende_Trait_T60" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0411"
@@ -837,20 +680,16 @@
          id="tspan1567-4-5-9-5-8-9"
          x="1438.0411"
          y="647.10461"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T60</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T60</tspan></text></g><g
      id="g737"
      inkscape:label="T60_avec_marges"
      inkscape:groupmode="layer"
      style="display:inline"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#ff0000;stroke-width:2.008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:12.048, 4.016;stroke-dashoffset:0.6024;stroke-opacity:1"
        d="m 1260.3466,641.10301 h 168.9079"
        id="path1565-9-9-9-1-5-6-3"
-       inkscape:label="Légende_Trait_T60" />
-    <text
+       inkscape:label="Légende_Trait_T60" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0411"
@@ -861,20 +700,16 @@
          id="tspan1567-4-5-9-5-8-9-3"
          x="1438.0411"
          y="647.10461"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T60</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T60</tspan></text></g><g
      id="g757"
      inkscape:label="T58_sans_marges"
      inkscape:groupmode="layer"
      style="display:none"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#0000ff;stroke-width:2.008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.016, 2.008, 1.004, 2.008;stroke-dashoffset:0.6024;stroke-opacity:1"
        d="m 1260.3466,623.41101 h 168.9079"
        id="path1565-9-9-9-1-5-4"
-       inkscape:label="Légende_Trait_T58" />
-    <text
+       inkscape:label="Légende_Trait_T58" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0406"
@@ -885,20 +720,16 @@
          id="tspan1567-4-5-9-5-8-5"
          x="1438.0406"
          y="629.41272"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T58</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T58</tspan></text></g><g
      id="g739"
      inkscape:label="T58_avec_marges"
      style="display:inline"
      inkscape:groupmode="layer"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#0000ff;stroke-width:2.008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.016, 2.008, 1.004, 2.008;stroke-dashoffset:0.6024;stroke-opacity:1"
        d="m 1260.3466,623.41101 h 168.9079"
        id="path1565-9-9-9-1-5-4-3"
-       inkscape:label="Légende_Trait_T58" />
-    <text
+       inkscape:label="Légende_Trait_T58" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0406"
@@ -909,20 +740,16 @@
          id="tspan1567-4-5-9-5-8-5-6"
          x="1438.0406"
          y="629.41272"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T58</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T58</tspan></text></g><g
      id="g759"
      inkscape:label="T56_sans_marges"
      style="display:none"
      inkscape:groupmode="layer"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#000000;stroke-width:2.008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:8.032, 2.008;stroke-dashoffset:0;stroke-opacity:1"
        d="m 1260.3466,605.71901 h 168.9079"
        id="path1565-9-9-9-1-5-1"
-       inkscape:label="Légende_Trait_T56" />
-    <text
+       inkscape:label="Légende_Trait_T56" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0406"
@@ -933,20 +760,16 @@
          id="tspan1567-4-5-9-5-8-2"
          x="1438.0406"
          y="611.72083"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T56</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T56</tspan></text></g><g
      id="g741"
      inkscape:label="T56_avec_marges"
      style="display:inline"
      inkscape:groupmode="layer"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#000000;stroke-width:2.008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:8.032, 2.008;stroke-dashoffset:0;stroke-opacity:1"
        d="m 1260.3466,605.71901 h 168.9079"
        id="path1565-9-9-9-1-5-1-9"
-       inkscape:label="Légende_Trait_T56" />
-    <text
+       inkscape:label="Légende_Trait_T56" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0406"
@@ -957,20 +780,16 @@
          id="tspan1567-4-5-9-5-8-2-0"
          x="1438.0406"
          y="611.72083"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T56</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T56</tspan></text></g><g
      id="g761"
      inkscape:label="T54_sans_marges"
      style="display:none"
      inkscape:groupmode="layer"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#ff6600;stroke-width:2.008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:16.064, 4.016, 2.008, 4.016;stroke-dashoffset:0.6024;stroke-opacity:1"
        d="m 1260.3466,588.02701 h 168.9079"
        id="path1565-9-9-9-1-5"
-       inkscape:label="Légende_Trait_T54" />
-    <text
+       inkscape:label="Légende_Trait_T54" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0406"
@@ -981,20 +800,16 @@
          id="tspan1567-4-5-9-5-8"
          x="1438.0406"
          y="594.02893"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T54</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T54</tspan></text></g><g
      id="g743"
      inkscape:label="T54_avec_marges"
      style="display:inline"
      inkscape:groupmode="layer"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#ff6600;stroke-width:2.008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:16.064, 4.016, 2.008, 4.016;stroke-dashoffset:0.6024;stroke-opacity:1"
        d="m 1260.3466,588.02701 h 168.9079"
        id="path1565-9-9-9-1-5-7"
-       inkscape:label="Légende_Trait_T54" />
-    <text
+       inkscape:label="Légende_Trait_T54" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0406"
@@ -1005,20 +820,16 @@
          id="tspan1567-4-5-9-5-8-6"
          x="1438.0406"
          y="594.02893"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T54</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T54</tspan></text></g><g
      id="g763"
      inkscape:label="T52_sans_marges"
      style="display:none"
      inkscape:groupmode="layer"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#5599ff;stroke-width:2.008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:16.064, 16.064;stroke-dashoffset:0.6024;stroke-opacity:1"
        d="m 1260.3466,570.33501 h 168.9079"
        id="path1565-9-9-9"
-       inkscape:label="Légende_Trait_T52" />
-    <text
+       inkscape:label="Légende_Trait_T52" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0406"
@@ -1029,20 +840,16 @@
          id="tspan1567-4-5-9"
          x="1438.0406"
          y="576.33557"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T52</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T52</tspan></text></g><g
      id="g745"
      inkscape:label="T52_avec_marges"
      style="display:inline"
      inkscape:groupmode="layer"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#5599ff;stroke-width:2.008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:16.064, 16.064;stroke-dashoffset:0.6024;stroke-opacity:1"
        d="m 1260.3466,570.33501 h 168.9079"
        id="path1565-9-9-9-1"
-       inkscape:label="Légende_Trait_T52" />
-    <text
+       inkscape:label="Légende_Trait_T52" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0406"
@@ -1053,20 +860,16 @@
          id="tspan1567-4-5-9-5"
          x="1438.0406"
          y="576.33557"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T52</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T52</tspan></text></g><g
      id="g765"
      inkscape:label="T50_sans_marges"
      style="display:none"
      inkscape:groupmode="layer"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#c837ab;stroke-width:2.008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.016, 8.032;stroke-dashoffset:0.6024;stroke-opacity:1"
        d="m 1260.3466,552.64301 h 168.9079"
        id="path1565-9-9"
-       inkscape:label="Légende_Trait_T50" />
-    <text
+       inkscape:label="Légende_Trait_T50" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0406"
@@ -1077,20 +880,16 @@
          id="tspan1567-4-5"
          x="1438.0406"
          y="558.6427"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T50</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T50</tspan></text></g><g
      id="g747"
      inkscape:label="T50_avec_marges"
      style="display:inline"
      inkscape:groupmode="layer"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#c837ab;stroke-width:2.008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.016, 8.032;stroke-dashoffset:0.6024;stroke-opacity:1"
        d="m 1260.3466,552.64301 h 168.9079"
        id="path1565-9-9-1"
-       inkscape:label="Légende_Trait_T50" />
-    <text
+       inkscape:label="Légende_Trait_T50" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0406"
@@ -1101,20 +900,16 @@
          id="tspan1567-4-5-3"
          x="1438.0406"
          y="558.6427"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T50</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T50</tspan></text></g><g
      id="g767"
      inkscape:label="T48_sans_marges"
      style="display:none"
      inkscape:groupmode="layer"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#d4aa00;stroke-width:2.008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.6024;stroke-opacity:1"
        d="m 1260.3466,534.95101 h 168.9079"
        id="path1565-9"
-       inkscape:label="Légende_Trait_T48" />
-    <text
+       inkscape:label="Légende_Trait_T48" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0406"
@@ -1125,20 +920,16 @@
          id="tspan1567-4"
          x="1438.0406"
          y="540.94934"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T48</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T48</tspan></text></g><g
      id="g749"
      inkscape:label="T48_avec_marges"
      style="display:inline"
      inkscape:groupmode="layer"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#d4aa00;stroke-width:2.008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.6024;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
        d="m 1260.3466,534.95101 h 168.9079"
        id="path1565-9-6"
-       inkscape:label="Légende_Trait_T48" />
-    <text
+       inkscape:label="Légende_Trait_T48" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0406"
@@ -1149,20 +940,16 @@
          id="tspan1567-4-1"
          x="1438.0406"
          y="540.94934"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T48</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T48</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer39"
      inkscape:label="T46_sans_marges"
      style="display:none"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#008000;stroke-width:2.008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:16.064, 4.01601, 2.008, 4.01601;stroke-dashoffset:0.6024;stroke-opacity:1"
        d="m 1260.3467,517.25911 h 168.9078"
        id="path1565"
-       inkscape:label="Légende_Trait_T46" />
-    <text
+       inkscape:label="Légende_Trait_T46" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0406"
@@ -1173,20 +960,16 @@
          id="tspan1567"
          x="1438.0406"
          y="523.25647"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T46</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T46</tspan></text></g><g
      id="layer48"
      inkscape:label="T46_avec_marges"
      inkscape:groupmode="layer"
      style="display:inline"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#008000;stroke-width:2.00789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:16.0631, 4.01578, 2.00789, 4.01578;stroke-dashoffset:0.602366;stroke-opacity:1"
        d="m 1260.3467,517.25911 h 168.9078"
        id="path3108-6"
-       inkscape:label="Légende_Trait_T46" />
-    <text
+       inkscape:label="Légende_Trait_T46" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0406"
@@ -1197,20 +980,16 @@
          id="tspan3161-3"
          x="1438.0406"
          y="523.25647"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T46</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T46</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer38"
      inkscape:label="T44_sans_marges"
      style="display:none"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#0000ff;stroke-width:1.99568;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.99568, 3.99137;stroke-dashoffset:0;stroke-opacity:1"
        d="m 1260.3466,499.57321 h 168.908"
        id="path1574"
-       inkscape:label="Légende_Trait_T44" />
-    <text
+       inkscape:label="Légende_Trait_T44" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0406"
@@ -1221,20 +1000,16 @@
          id="tspan1576"
          x="1438.0406"
          y="505.95523"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T44</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T44</tspan></text></g><g
      id="layer47"
      inkscape:label="T44_avec_marges"
      style="display:inline"
      inkscape:groupmode="layer"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#0000ff;stroke-width:1.99568;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.99568, 3.99137;stroke-dashoffset:0;stroke-opacity:1"
        d="m 1260.3466,499.57321 h 168.908"
        id="path3108-5"
-       inkscape:label="Légende_Trait_T44" />
-    <text
+       inkscape:label="Légende_Trait_T44" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0406"
@@ -1245,20 +1020,16 @@
          id="tspan3161-6"
          x="1438.0406"
          y="505.95523"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T44</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T44</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer37"
      inkscape:label="T42_sans_marges"
      style="display:none"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#ff00ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:8.00002, 8.00002;stroke-dashoffset:0;stroke-opacity:1"
        d="m 1260.3466,481.87911 h 168.908"
        id="path3210"
-       inkscape:label="Légende_Trait_T42" />
-    <text
+       inkscape:label="Légende_Trait_T42" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0406"
@@ -1269,20 +1040,16 @@
          id="tspan3212"
          x="1438.0406"
          y="488.26236"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T42</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T42</tspan></text></g><g
      id="layer46"
      inkscape:label="T42_avec_marges"
      style="display:inline"
      inkscape:groupmode="layer"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#ff00ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:12, 4.00001;stroke-dashoffset:0.4;stroke-opacity:1"
        d="m 1260.3466,481.87911 h 168.908"
        id="path3108"
-       inkscape:label="Légende_Trait_T42" />
-    <text
+       inkscape:label="Légende_Trait_T42" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0406"
@@ -1293,20 +1060,16 @@
          id="tspan3161"
          x="1438.0406"
          y="488.26236"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T42</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke-width:1">T42</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer36"
      inkscape:label="T40_sans_marges"
      style="display:none"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#ff0000;stroke-width:1.996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:23.952, 1.996;stroke-dashoffset:0;stroke-opacity:1"
        d="m 1260.3466,464.18911 h 168.9079"
        id="path3108-5-1-4-7-4-9-2"
-       inkscape:label="Légende_Trait_T40" />
-    <text
+       inkscape:label="Légende_Trait_T40" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0406"
@@ -1317,20 +1080,16 @@
          id="tspan3161-6-0-0-4-5-4-0"
          x="1438.0406"
          y="470.1774"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke:none;stroke-width:1">T40</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke:none;stroke-width:1">T40</tspan></text></g><g
      id="layer45"
      inkscape:label="T40_avec_marges"
      style="display:inline"
      inkscape:groupmode="layer"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#ff0000;stroke-width:1.996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:23.952, 1.996;stroke-dashoffset:0;stroke-opacity:1"
        d="m 1260.3466,464.18911 h 168.9079"
        id="path3108-5-1-4-7-4-9-2-1"
-       inkscape:label="Légende_Trait_T40" />
-    <text
+       inkscape:label="Légende_Trait_T40" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0406"
@@ -1341,20 +1100,16 @@
          id="tspan3161-6-0-0-4-5-4-0-7"
          x="1438.0406"
          y="470.1774"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke:none;stroke-width:1">T40</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke:none;stroke-width:1">T40</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer35"
      inkscape:label="T38_sans_marges"
      style="display:none"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#37c837;stroke-width:1.996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.998, 0.998;stroke-dashoffset:0;stroke-opacity:1"
        d="m 1260.3466,446.49711 h 168.9079"
        id="path3108-5-1-4-7-4"
-       inkscape:label="Légende_Trait_T38" />
-    <text
+       inkscape:label="Légende_Trait_T38" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0406"
@@ -1365,20 +1120,16 @@
          id="tspan3161-6-0-0-4-5"
          x="1438.0406"
          y="452.50259"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke:none;stroke-width:1">T38</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke:none;stroke-width:1">T38</tspan></text></g><g
      id="layer44"
      inkscape:label="T38_avec_marges"
      style="display:inline"
      inkscape:groupmode="layer"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#37c837;stroke-width:1.996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.998, 0.998;stroke-dashoffset:0;stroke-opacity:1"
        d="m 1260.3466,446.49711 h 168.9079"
        id="path3108-5-1-4-7-4-9"
-       inkscape:label="Légende_Trait_T38" />
-    <text
+       inkscape:label="Légende_Trait_T38" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0406"
@@ -1389,20 +1140,16 @@
          id="tspan3161-6-0-0-4-5-4"
          x="1438.0406"
          y="452.50259"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke:none;stroke-width:1">T38</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke:none;stroke-width:1">T38</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer34"
      inkscape:label="T36_sans_marges"
      style="display:none"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#d42aff;stroke-width:1.996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:11.976, 3.992;stroke-dashoffset:0;stroke-opacity:1"
        d="m 1260.3466,428.80521 h 168.9079"
        id="path3108-5-1-4-7"
-       inkscape:label="Légende_Trait_T36" />
-    <text
+       inkscape:label="Légende_Trait_T36" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0406"
@@ -1413,20 +1160,16 @@
          id="tspan3161-6-0-0-4"
          x="1438.0406"
          y="434.79117"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke:none;stroke-width:1">T36</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke:none;stroke-width:1">T36</tspan></text></g><g
      id="layer43"
      inkscape:label="T36_avec_marges"
      style="display:inline"
      inkscape:groupmode="layer"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#d42aff;stroke-width:1.996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:11.976, 3.992;stroke-dashoffset:0;stroke-opacity:1"
        d="m 1260.3466,428.80521 h 168.9079"
        id="path3108-5-1-4-7-1"
-       inkscape:label="Légende_Trait_T36" />
-    <text
+       inkscape:label="Légende_Trait_T36" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0406"
@@ -1437,27 +1180,22 @@
          id="tspan3161-6-0-0-4-6"
          x="1438.0406"
          y="434.79117"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke:none;stroke-width:1">T36</tspan></text>
-    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke:none;stroke-width:1">T36</tspan></text><rect
        style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#d42aff;stroke-width:2.00326;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:12.0196, 4.00652;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        id="rect540-0-6"
        width="1047.535"
        height="324.34506"
        x="1360.8735"
-       y="-40.124477" />
-  </g>
-  <g
+       y="-40.124477" /></g><g
      inkscape:groupmode="layer"
      id="layer33"
      inkscape:label="T34_sans_marges"
      style="display:none"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#00aad4;stroke-width:1.996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:7.98402, 3.99201, 1.996, 3.99201;stroke-dashoffset:0;stroke-opacity:1"
        d="m 1260.3466,411.11321 h 168.9079"
        id="path3108-5-1-4"
-       inkscape:label="Légende_Trait_T34" />
-    <text
+       inkscape:label="Légende_Trait_T34" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0411"
@@ -1468,20 +1206,16 @@
          id="tspan3161-6-0-0"
          x="1438.0411"
          y="417.11636"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke:none;stroke-width:1">T34</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke:none;stroke-width:1">T34</tspan></text></g><g
      id="layer42"
      inkscape:label="T34_avec_marges"
      style="display:inline"
      inkscape:groupmode="layer"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#00aad4;stroke-width:1.996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:7.98402, 3.99201, 1.996, 3.99201;stroke-dashoffset:0;stroke-opacity:1"
        d="m 1260.3467,411.11321 h 168.9079"
        id="path3108-5-1-4-2"
-       inkscape:label="Légende_Trait_T34" />
-    <text
+       inkscape:label="Légende_Trait_T34" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0406"
@@ -1492,27 +1226,22 @@
          id="tspan3161-6-0-0-7"
          x="1438.0406"
          y="417.11636"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke:none;stroke-width:1">T34</tspan></text>
-    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke:none;stroke-width:1">T34</tspan></text><rect
        style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#00aad4;stroke-width:2.05692;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:8.2277, 4.11386, 2.05692, 4.11386;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        id="rect540-0"
        width="1021.553"
        height="300.40811"
        x="1360.87"
-       y="-40.128109" />
-  </g>
-  <g
+       y="-40.128109" /></g><g
      inkscape:groupmode="layer"
      id="layer32"
      inkscape:label="T32_sans_marges"
      style="display:none"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#ff0000;stroke-width:1.99568;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.99568, 3.99137;stroke-dashoffset:0;stroke-opacity:1"
        d="m 1260.3466,393.42131 h 168.908"
        id="path3108-5-1"
-       inkscape:label="Légende_Trait_T32" />
-    <text
+       inkscape:label="Légende_Trait_T32" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0406"
@@ -1523,20 +1252,16 @@
          id="tspan3161-6-0"
          x="1438.0406"
          y="399.423"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke:none;stroke-width:1">T32</tspan></text>
-  </g>
-  <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke:none;stroke-width:1">T32</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer41"
      inkscape:label="T32_avec_marges"
      style="display:inline"
-     transform="translate(-859.24985,172.6017)">
-    <path
+     transform="translate(-859.24985,172.6017)"><path
        style="display:inline;fill:none;stroke:#ff0000;stroke-width:1.99568;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.99568, 3.99137;stroke-dashoffset:0;stroke-opacity:1"
        d="m 1260.3466,393.42131 h 168.908"
        id="path3108-5-1-3"
-       inkscape:label="Légende_Trait_T32" />
-    <text
+       inkscape:label="Légende_Trait_T32" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="1438.0406"
@@ -1547,13 +1272,10 @@
          id="tspan3161-6-0-3"
          x="1438.0406"
          y="399.423"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke:none;stroke-width:1">T32</tspan></text>
-    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';stroke:none;stroke-width:1">T32</tspan></text><rect
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.92459;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.92459, 3.8492;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        id="rect540"
        width="997.01263"
        height="269.55838"
        x="1360.87"
-       y="-40.128109" />
-  </g>
-</svg>
+       y="-40.128109" /></g></svg>

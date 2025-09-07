@@ -165,9 +165,10 @@ def svg_to_vector_pdf(svg_path, output_pdf_path):
                 pdf_page.draw_rect(fitz.Rect(0, height_pt*1.001 - margin_pt, width_pt, height_pt), fill=(1, 1, 1), color=None)  # En bas
                 pdf_page.draw_rect(fitz.Rect(width_pt*1.002 - margin_pt, 0, width_pt, height_pt), fill=(1, 1, 1), color=None)  # A droite
 
+
                 pdf_page.insert_link({
-                    "from": fitz.Rect((margin_mm+5) * mm_to_pt, (margin_mm+5) * mm_to_pt, (margin_mm+15) * mm_to_pt, (margin_mm+15) * mm_to_pt),  # zone cliquable en points
-                    "uri": "https://test.com",
+                    "from": fitz.Rect((page_margin+5)/scale_svg * mm_to_pt, (page_margin+5)/scale_svg * mm_to_pt, (page_margin+15)/scale_svg * mm_to_pt, (page_margin+15)/scale_svg * mm_to_pt),  # zone cliquable en points
+                    "uri": "https://www.instagram.com/celine_mge/",
                     "kind": fitz.LINK_URI
                 })
 
