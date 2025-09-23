@@ -57,10 +57,12 @@ def svg_to_vector_pdf(svg_path, output_pdf_path):
     for rect in pages_layer.xpath(".//svg:rect", namespaces=ns):
         try:
             rect_label = rect.attrib.get('{http://www.inkscape.org/namespaces/inkscape}label')
-            check_rect = rect_label.startswith(varPagesObjectPrefix)
+            rect_visible = 'display:none' not in rect.attrib.get('style', '')
+            check_rect = rect_label.startswith(varPagesObjectPrefix) and rect_visible
         except:
             rect_label = rect.attrib.get('id', '')
-            check_rect = rect_label.startswith(varPagesObjectPrefix)
+            rect_visible = 'display:none' not in rect.attrib.get('style', '')
+            check_rect = rect_label.startswith(varPagesObjectPrefix) and rect_visible
         if check_rect:
             page_rects.append({
                 'id': rect_label,
@@ -180,6 +182,7 @@ def svg_to_vector_pdf(svg_path, output_pdf_path):
 
 # EXECUTION DU SCRIPT
 if os.path.exists(svg_file):
+    print("... execution en cours ...")
     svg_to_vector_pdf(svg_file, output_pdf)
 else:
     print(f"❌ Fichier SVG introuvable : {svg_file}")
